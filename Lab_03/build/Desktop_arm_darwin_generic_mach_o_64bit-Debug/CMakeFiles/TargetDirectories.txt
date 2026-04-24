@@ -1,5 +1,0 @@
-/Users/kurbanovkirill/Desktop/OOP/Lab_03_fixed/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Lab_03.dir
-/Users/kurbanovkirill/Desktop/OOP/Lab_03_fixed/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
-/Users/kurbanovkirill/Desktop/OOP/Lab_03_fixed/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
-/Users/kurbanovkirill/Desktop/OOP/Lab_03_fixed/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Lab_03_autogen_timestamp_deps.dir
-/Users/kurbanovkirill/Desktop/OOP/Lab_03_fixed/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Lab_03_autogen.dir
