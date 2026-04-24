@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Lab_03_FILE /Users/kurbanovkirill/Desktop/OOP/Lab_03_fixed/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/Lab_03)
+set(__QT_DEPLOY_TARGET_Lab_03_TYPE EXECUTABLE)
