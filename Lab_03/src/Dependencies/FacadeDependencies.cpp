@@ -1,7 +1,11 @@
 #include "Dependencies/FacadeDependencies.h"
+#include "render/QtRenderFactory.h"
+
+#include <memory>
 
 FacadeDependencies::FacadeDependencies()
-    : _loadService(_loadDependencies.getReaderSolution(),
+    : _renderService(std::make_unique<QtRenderFactory>()),
+      _loadService(_loadDependencies.getReaderSolution(),
                    _loadDependencies.getDirectorSolution()),
       _sceneManager(_sceneDependencies.createBaseScene())
 {

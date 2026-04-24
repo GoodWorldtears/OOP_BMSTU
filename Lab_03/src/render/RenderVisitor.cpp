@@ -36,7 +36,8 @@ void RenderVisitor::visit(BaseBoneModel &model)
     {
         DrawPoint p1;
         DrawPoint p2;
-        if (projectPoint(points.at(edge.first()).position(), p1) && projectPoint(points.at(edge.second()).position(), p2))
+        if (projectPoint(points.at(edge.first()).position(), p1) &&
+            projectPoint(points.at(edge.second()).position(), p2))
             _drawer->drawLine(p1, p2);
     }
 }
